@@ -1,2 +1,2 @@
 # github-pages
-CSE 110 Lab 1
+Ike's User Page
