@@ -14,7 +14,7 @@ I was born and raised in *Carson, California*, and I’m also Nigerian. I’m so
 > I like making things that feel personal, creative, and meaningful.
 
 
-![ike](images/ike.jpg)
+<img src="images/ike.jpg" alt="ike" width="300">
 
 ---
 
