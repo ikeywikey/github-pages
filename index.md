@@ -56,7 +56,7 @@ A lot of what I enjoy comes from being creative and paying attention to style, e
 
 Outside of that, I’m also really into **health and fitness**. I like staying active, and I enjoy playing sports too.
 
-<img src="images/soccer.webp" alt="game1" width="800">
+<img src="images/soccer.webp" alt="game1" width="500">
 
 
 If I had to describe myself:
