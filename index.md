@@ -22,8 +22,8 @@ I was born and raised in *Carson, California*, and I’m also Nigerian. I’m so
 
 I’ve been programming since **2020**. I first got into it during quarantine when my friends and I decided to try making a Roblox game together. That was really my introduction to coding, and from there I kept learning more because I liked how creative it felt, and I got good at it quickly.
 
-<img src="images/game-1.png" alt="game1" width="300">
-<img src="images/game-2.png" alt="game1" width="300">
+<img src="images/game-1.png" alt="game1" width="600">
+<img src="images/game-2.png" alt="game1" width="600">
 
 > #### Game studio channel: [Studio channel](https://www.youtube.com/@fnsstudio4778)  
 
@@ -56,7 +56,7 @@ A lot of what I enjoy comes from being creative and paying attention to style, e
 
 Outside of that, I’m also really into **health and fitness**. I like staying active, and I enjoy playing sports too.
 
-<img src="images/soccer.webp" alt="game1" width="300">
+<img src="images/soccer.webp" alt="game1" width="800">
 
 
 If I had to describe myself:
